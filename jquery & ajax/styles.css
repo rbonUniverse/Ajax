@@ -1,0 +1,36 @@
+
+
+.headline {
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.search-and-buttons {
+    margin-top: 35px;
+    margin-bottom: 50px;
+    margin-left: 15cm;
+    margin-right: 10cm;
+}
+
+
+.all_countries {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+
+table,
+th,
+td {
+    text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-left: 9cm;
+}
+
+th {
+    width: 5cm;
+}
